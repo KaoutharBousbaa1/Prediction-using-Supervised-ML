@@ -1,2 +1,2 @@
 # Prediction-using-Supervised-ML
-Prediction Using Supervised ML Predict the percentage of an student based on the no. of study hours. Data can be found at http://bit.ly/w-data.
+Predicting the percentage of an student based on the number of study hours. Data can be found at http://bit.ly/w-data.
